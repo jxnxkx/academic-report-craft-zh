@@ -1,0 +1,11 @@
+{
+  "name": "academic-report-craft-zh",
+  "version": "0.1.0",
+  "description": "Chinese academic report writing style, Typora Markdown conventions, Word/MathType automation and Visio framework figures for thesis proposals, theses and project reports.",
+  "skills": "./skills/",
+  "author": { "name": "jxnxkx", "url": "https://github.com/jxnxkx" },
+  "homepage": "https://github.com/jxnxkx/academic-report-craft-zh",
+  "repository": "https://github.com/jxnxkx/academic-report-craft-zh",
+  "license": "MIT",
+  "keywords": ["chinese", "academic-writing", "thesis", "word", "mathtype", "visio", "gb-t-7714"]
+}

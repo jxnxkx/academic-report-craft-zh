@@ -1,0 +1,6 @@
+interface:
+  display_name: "中文工科项目报告写作风格"
+  short_description: "从逐句讨论与提交稿提炼，统一技术叙事、自然措辞、图表证据和改稿边界"
+  default_prompt: "使用 $chinese-engineering-report-style，依据我的最新稿和本轮修改范围，按既定风格撰写或润色中文工科项目报告。"
+policy:
+  allow_implicit_invocation: true

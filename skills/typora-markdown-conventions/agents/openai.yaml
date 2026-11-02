@@ -1,0 +1,4 @@
+interface:
+  display_name: "Typora Markdown 规范"
+  short_description: "统一公式、变量、代码与中文报告的 Markdown 标记"
+  default_prompt: "Use $typora-markdown-conventions to format this Markdown report for consistent Typora and PDF rendering."

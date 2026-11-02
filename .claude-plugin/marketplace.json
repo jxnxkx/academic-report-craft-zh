@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "academic-report-craft-zh",
+  "description": "Skills for writing and formatting Chinese academic reports.",
+  "owner": { "name": "jxnxkx", "url": "https://github.com/jxnxkx" },
+  "plugins": [
+    {
+      "name": "academic-report-craft-zh",
+      "description": "Writing style, Markdown conventions, Word/MathType automation and Visio figures for Chinese thesis proposals, theses and project reports.",
+      "source": "./",
+      "category": "productivity",
+      "tags": ["chinese", "academic-writing", "thesis", "word", "mathtype", "visio"]
+    }
+  ]
+}
